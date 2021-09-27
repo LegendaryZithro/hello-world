@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+Comp Sci Major looking to get a head start in coding before classes start. 
